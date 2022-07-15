@@ -29,11 +29,11 @@ body{
     text-align: center;
     background-color: #000000;
     padding: 1rem;
-    border-radius: 25px;
+    border-radius: 15px;
 }
 
 #QR-content img{
-    border-radius: 5px;
+    border-radius: 8px;
     width: 23rem;
 }
 
