@@ -32,7 +32,7 @@ body {
 .brand-logo {
   height: 100px;
   width: 100px;
-  background: url("https://cdn-icons-png.flaticon.com/512/1057/1057248.png");
+  background: url("https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-instagram-png-transparent-instagram-images-pluspng-3.png");
   background-size: 100px 100px;
   margin: auto;
   border-radius: 50%;
@@ -44,7 +44,7 @@ body {
   margin-top: 10px;
   font-weight: 900;
   font-size: 1.8rem;
-  color: #1DA1F2;
+  color: #cc2366;
   letter-spacing: 1px;
 }
 
@@ -75,7 +75,7 @@ input::placeholder {
 }
 
 input {
-  background: #ecf0f3;
+  background: linear-gradient(16deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%);
   padding: 10px;
   padding-left: 20px;
   height: 50px;
