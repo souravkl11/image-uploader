@@ -20,9 +20,9 @@ body {
 
 .container {
   position: relative;
-  width: 350px;
-  height: 500px;
-  border-radius: 20px;
+  width: 700px;
+  height: 899px;
+  border-radius: 40px;
   padding: 40px;
   box-sizing: border-box;
   background: #ecf0f3;
@@ -30,10 +30,10 @@ body {
 }
 
 .brand-logo {
-  height: 100px;
-  width: 100px;
+  height: 200px;
+  width: 200;
   background: url("https://brandlogos.net/wp-content/uploads/2022/06/youtube_shorts-logo_brandlogos.net_vhmca-512x512.png");
-  background-size: 100px 100px;
+  background-size: 200px 200px;
   margin: auto;
   border-radius: 50%;
   box-sizing: border-box;
@@ -41,9 +41,9 @@ body {
 }
 
 .brand-title {
-  margin-top: 10px;
+  margin-top: 25px;
   font-weight: 900;
-  font-size: 1.8rem;
+  font-size: 3.8rem;
   color: #ff0000;
   letter-spacing: 1px;
 }
@@ -78,19 +78,20 @@ input {
   background: #ecf0f3;
   padding: 10px;
   padding-left: 20px;
-  height: 50px;
-  font-size: 14px;
+  height: 100px;
+  font-size: 33px;
   border-radius: 50px;
   box-shadow: inset 6px 6px 6px #cbced1, inset -6px -6px 6px white;
 }
 
 button {
   color: white;
-  margin-top: 20px;
+  margin-top: 54px;
   background: #ff0000;
-  height: 40px;
-  border-radius: 20px;
+  height: 79px;
+  border-radius: 65px;
   cursor: pointer;
+  font-size: 30;
   font-weight: 900;
   box-shadow: 6px 6px 6px #cbced1, -6px -6px 6px white;
   transition: 0.5s;
