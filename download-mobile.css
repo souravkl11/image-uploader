@@ -31,7 +31,7 @@ body {
 
 .brand-logo {
   height: 200px;
-  width: 200; background: url("https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-instagram-png-transparent-instagram-images-pluspng-3.png");
+  width: 200; background: url("https://img.apksum.com/91/com.impartor.video.downloaderinstagram/1.0/icon.png");
   background-size: 200px 200px;
   margin: auto;
   border-radius: 50%;
@@ -90,7 +90,7 @@ button {
   height: 79px;
   border-radius: 65px;
   cursor: pointer;
-  font-size: 30;
+  font-size: 20;
   font-weight: 900;
   box-shadow: 6px 6px 6px #cbced1, -6px -6px 6px white;
   transition: 0.5s;
