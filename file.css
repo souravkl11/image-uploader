@@ -27,7 +27,7 @@ body{
 #content{
     display: flex;
     flex-direction: column;
-    width: 23rem;
+    width: 25rem;
     text-align: center;
     background-color: #000000;
     padding: 1rem;
